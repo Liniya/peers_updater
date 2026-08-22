@@ -481,9 +481,9 @@ dependencies = [
 
 [[package]]
 name = "tiny_http_client"
-version = "0.1.2"
+version = "0.1.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "3f6692fd555596b12a8f4a1454d65ce6ffb82737a0c1f2c1a1de3984c4b74650"
+checksum = "2b3c6d9604b6856d11678d1120da3a3ecfc63b9278a40a98538cb4e1b16f297e"
 dependencies = [
  "native-tls",
  "rustls",
